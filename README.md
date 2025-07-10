@@ -37,8 +37,8 @@ Este proyecto no solo busca demostrar el aprendizaje por refuerzo en un entorno 
 * **Integrantes**:
 
   * Alumno A – Benalcázar Ferro, José Ignacio (Responsable de investigación teórica)
-  * Alumno B – Luciani Dávila, Itzel Yadira Arellys (Desarrollo de la arquitectura)
-  * Alumno C – Cervantes Ordóñez, Jireh Eliseo (Implementación del modelo y Pruebas)
+  * Alumno B – Cervantes Ordóñez, Jireh Eliseo (Desarrollo de la arquitectura)
+  * Alumno C – Luciani Dávila, Itzel Yadira Arellys (Implementación del modelo y Pruebas)
   * Alumno D – Cabanillas Solis, Joseph Jossemy (Documentación y demo)
 
 
